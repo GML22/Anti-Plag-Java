@@ -8,9 +8,13 @@ Anti-Plag-Java is an application written in Java that detects plagiarism by comp
 </p>
 
 <p align="justify">
-Own implementation of BST Tree is used to efficiently store and search for the hash codes of tokens created in tokenizer class.
+This application implements recursive modification of BST Tree to efficiently store and search for the hash codes of tokens created from source codes of compared Java projects.
 </p>
 
 <p align="center">
   <img width=50% height=50% src="/images/second_panel.png"/>
+</p>
+
+<p align="justify">
+Own implementation of BST Tree is used to efficiently store and search for the hash codes of tokens created in tokenizer class.
 </p>
