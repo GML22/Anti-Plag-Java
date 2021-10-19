@@ -4,7 +4,7 @@ Anti-Plag-Java is an application written in Java that detects plagiarism by comp
 </p>
 
 <p align="center">
-  <img width=50% height=50% src="/images/first_panel.png"/>
+  <img width=60% height=60% src="/images/first_panel.png"/>
 </p>
 
 <p align="justify">
@@ -12,7 +12,7 @@ This application implements recursive modification of BST Tree to efficiently st
 </p>
 
 <p align="center">
-  <img width=50% height=50% src="/images/second_panel.png"/>
+  <img width=60% height=60% src="/images/second_panel.png"/>
 </p>
 
 <p align="justify">
