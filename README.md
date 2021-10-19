@@ -12,5 +12,5 @@ Own implementation of BST Tree is used to efficiently store and search for the h
 </p>
 
 <p align="center">
-  <img width=75% height=75% src="/images/second_panel.png"/>
+  <img width=50% height=50% src="/images/second_panel.png"/>
 </p>
