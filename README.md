@@ -16,5 +16,5 @@ This application implements recursive modification of BST Tree to efficiently st
 </p>
 
 <p align="justify">
-As a result 
+As a result the Anti-Plag-Java provides similarity coefficient for compared Java projects and easy to browse list of found similarities wrapped in a convenient GUI.
 </p>
