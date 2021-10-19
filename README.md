@@ -16,5 +16,5 @@ This application implements recursive modification of BST Tree to efficiently st
 </p>
 
 <p align="justify">
-Own implementation of BST Tree is used to efficiently store and search for the hash codes of tokens created in tokenizer class.
+As a result 
 </p>
