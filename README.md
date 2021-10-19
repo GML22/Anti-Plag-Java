@@ -4,5 +4,5 @@ Anti-Plag-Java is an application written in Java that detects plagiarism by comp
 </p>
 
 <p align="center">
-  <img width=75% height=75% src="first_panel.png"/>
+  <img width=75% height=75% src="\images\first_panel.png"/>
 </p>
