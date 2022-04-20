@@ -1,6 +1,6 @@
 # Anti-Plag-Java
 
-*[This project was implemented in 2014]*
+*[This project was completed in January 2014]*
 
 <p align="justify">
 Anti-Plag-Java is an application written in Java that detects plagiarism by comparing the source codes of selected projects. 
